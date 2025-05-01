@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lucas! </h1>
 
-<h2>🌱 Ethical Hacking Writeups: </h2>
+<h2>🔓 Ethical Hacking Writeups: </h2>
 
 - 
 
