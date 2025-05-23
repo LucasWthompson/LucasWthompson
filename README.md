@@ -2,7 +2,7 @@
 
 <h2>🔓 Ethical Hacking </h2>
 
-- [Cybersecurity Writeups](https://github.com/LucasWthompson/Cybersecurity-Writeups)
+- [CTF Writeups](https://github.com/LucasWthompson/Cybersecurity-Writeups)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
