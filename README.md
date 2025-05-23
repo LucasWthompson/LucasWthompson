@@ -26,7 +26,7 @@ Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 ### 📌 Projects In Progress
 
-🚧 Phishing email campaign lab and tutorial
+🚧 Next project coming soon
 
 ---
 
