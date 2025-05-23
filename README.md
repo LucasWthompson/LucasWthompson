@@ -17,7 +17,7 @@ TryHackMe, picoCTF, and more
 ### 🧰 Cybersecurity Projects
 
 📊 [**Creating a SIEM with Azure**](https://github.com/LucasWthompson/SIEM-in-Azure-Project)  
-Built a cloud-native SIEM pipeline using Microsoft Sentinel and Log Analytics
+Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 ---
 
