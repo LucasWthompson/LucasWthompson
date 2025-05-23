@@ -29,8 +29,6 @@ Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 ### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/lucas-thompson-3a83a81b8/">
-  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="28px" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-thompson-3a83a81b8/)
 
 ---
