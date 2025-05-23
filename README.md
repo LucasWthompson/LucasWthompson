@@ -16,6 +16,9 @@ TryHackMe, picoCTF, and more
 
 ### 🧰 Cybersecurity Projects
 
+🧪 [**phish-email-lab**](https://github.com/LucasWthompson/phish-email-lab)  
+A red team phishing simulation environment using GoPhish and MailHog. Includes realistic phishing email templates, fake login pages, social engineering pretexts, and full setup automation.
+
 📊 [**Creating a SIEM with Azure**](https://github.com/LucasWthompson/SIEM-in-Azure-Project)  
 Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
