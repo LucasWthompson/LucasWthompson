@@ -26,7 +26,7 @@ Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 ### 📌 Projects In Progress
 
-🚧 Next project coming soon
+🚧 Creating a vulnerable web application
 
 ---
 
