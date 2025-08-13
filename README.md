@@ -34,6 +34,6 @@ Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-thompson-3a83a81b8/)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Slashallity.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1032953" style='border:none;'></iframe>
 
 ---
