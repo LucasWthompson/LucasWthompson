@@ -36,5 +36,4 @@ Built a cloud-native SIEM pipeline using Microsoft Azure and Log Analytics
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Slashallity.png" alt="Your Image Badge" />
 
-
 ---
